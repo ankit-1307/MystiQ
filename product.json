@@ -1,0 +1,268 @@
+[
+    {
+        "name": "Compact Desk",
+        "price": 8999,
+        "description": "Inspired by Scandinavian design this piece offers clean lines and a light finish for a minimalist look. Multiple open shelves provide plenty of space for storage and display making it both practical and stylish. Its compact design fits seamlessly into smaller spaces while the adjustable shelves offer versatility to suit various needs.",
+        "category": "Office chair",
+        "company": "Bluwud",
+        "colors": "#ffce54"
+    },
+    {
+        "name": "Minimalist Bookshelf",
+        "price": 7900,
+        "description": "users while enhancing the contemporary vibe of your home.",
+        "category": "Office chair",
+        "company": "Godrej",
+        "colors": "#4fc1e8"
+    },
+    {
+        "name": "Sleek TV Stand",
+        "price": 9999,
+        "description": "Inspired by Scandinavian design this piece offers clean lines and a light finish for a minimalist look. Multiple open shelves provide plenty of space for storage and display making it both practical and stylish. Its compact design fits seamlessly into smaller spaces while the adjustable shelves offer versatility to suit various needs.",
+        "category": "Table lamp",
+        "company": "Ikea",
+        "colors": "#4fc1e8"
+    },
+    {
+        "name": "Rustic Bed Frame",
+        "price": 3500,
+        "description": "Crafted from reclaimed wood this furniture item showcases a warm natural finish that highlights the unique grain patterns. Its sturdy base offers both stability and style making it a focal point in any setting. Perfect for gatherings it blends seamlessly with both traditional and modern decor adding a touch of rustic charm.",
+        "category": "Sofa",
+        "company": "Ikea",
+        "colors": "#a0d568"
+    },
+    {
+        "name": "Elegant Wardrobe",
+        "price": 8999,
+        "description": "his piece features a minimalist aesthetic with clean lines and neutral fabric adding a versatile touch to any room. The deep cushions are filled with high-density foam for optimal comfort supported by a durable frame with stylish legs. Ideal for small spaces it comfortably accommodates multiple users while enhancing the contemporary vibe of your home.",
+        "category": "Filing cabinet",
+        "company": "WoodenStreet",
+        "colors": "#ac92eb"
+    },
+
+    {
+        "name": "Plush Accent Chair",
+        "price": 5999,
+        "description": "his piece features a minimalist aesthetic with clean lines and neutral fabric adding a versatile touch to any room. The deep cushions are filled with high-density foam for optimal comfort supported by a durable frame with stylish legs. Ideal for small spaces it comfortably accommodates multiple users while enhancing the contemporary vibe of your home.",
+        "category": "Sofa",
+        "company": "Godrej",
+        "colors": "#ac92eb"
+    },
+    {
+        "name": "Minimalist Bookshelf",
+        "price": 11000,
+        "description": "users while enhancing the contemporary vibe of your home.",
+        "category": "Filing cabinet",
+        "company": "Godrej",
+        "colors": "#4fc1e8"
+    },
+    {
+        "name": "Urban Coffee Table",
+        "price": 11000,
+        "description": "Inspired by Scandinavian design this piece offers clean lines and a light finish for a minimalist look. Multiple open shelves provide plenty of space for storage and display making it both practical and stylish. Its compact design fits seamlessly into smaller spaces while the adjustable shelves offer versatility to suit various needs.",
+        "category": "Bathtub",
+        "company": "Nilkamal",
+        "colors": "#ac92eb"
+    },
+    {
+        "name": "Compact Desk",
+        "price": 19999,
+        "description": "Featuring a mid-century modern design this piece includes a solid wood frame with tapered legs. The vibrant upholstery adds a pop of color creating a striking contrast in any room. Its ergonomic design with a slightly reclined backrest and cushioned seat provides both comfort and style making it a standout addition to any space.",
+        "category": "Bookshelf",
+        "company": "Nilkamal",
+        "colors": "#ac92eb"
+    },
+    {
+        "name": "Compact Desk",
+        "price": 3500,
+        "description": "Crafted from reclaimed wood this furniture item showcases a warm natural finish that highlights the unique grain patterns. Its sturdy base offers both stability and style making it a focal point in any setting. Perfect for gatherings it blends seamlessly with both traditional and modern decor adding a touch of rustic charm.",
+        "category": "Filing cabinet",
+        "company": "Bluwud",
+        "colors": "#4fc1e8"
+    },
+    {
+        "name": "Sleek TV Stand",
+        "price": 9999,
+        "description": "Combining form and function this item features a metal frame with a rustic wood surface. The spacious top offers ample room for display or everyday use while the lower shelf provides additional storage. The distressed finish and exposed hardware give it an urban edgy look perfect for contemporary living spaces.",
+        "category": "Chair",
+        "company": "WoodenStreet",
+        "colors": "#ed5564"
+    },
+    {
+        "name": "Modern Side Table",
+        "price": 21000,
+        "description": "Combining form and function this item features a metal frame with a rustic wood surface. The spacious top offers ample room for display or everyday use while the lower shelf provides additional storage. The distressed finish and exposed hardware give it an urban edgy look perfect for contemporary living spaces.",
+        "category": "Table lamp",
+        "company": "WoodenStreet",
+        "colors": "#ffce54"
+    },
+    {
+        "name": "Cozy Sofa",
+        "price": 3500,
+        "description": "users while enhancing the contemporary vibe of your home.",
+        "category": "Table lamp",
+        "company": "Godrej",
+        "colors": "#ed5564"
+    },
+    {
+        "name": "Cozy Sofa",
+        "price": 19999,
+        "description": "Combining form and function this item features a metal frame with a rustic wood surface. The spacious top offers ample room for display or everyday use while the lower shelf provides additional storage. The distressed finish and exposed hardware give it an urban edgy look perfect for contemporary living spaces.",
+        "category": "Sofa",
+        "company": "Godrej",
+        "colors": "#ed5564"
+    },
+
+    {
+        "name": "Modern Side Table",
+        "price": 21000,
+        "description": "users while enhancing the contemporary vibe of your home.",
+        "category": "Office chair",
+        "company": "Nilkamal",
+        "colors": "#ffce54"
+    },
+    {
+        "name": "Compact Desk",
+        "price": 5999,
+        "description": "Featuring a mid-century modern design this piece includes a solid wood frame with tapered legs. The vibrant upholstery adds a pop of color creating a striking contrast in any room. Its ergonomic design with a slightly reclined backrest and cushioned seat provides both comfort and style making it a standout addition to any space.",
+        "category": "Bathtub",
+        "company": "Ikea",
+        "colors": "#ac92eb"
+    },
+    {
+        "name": "Plush Accent Chair",
+        "price": 3999,
+        "description": "Featuring a mid-century modern design this piece includes a solid wood frame with tapered legs. The vibrant upholstery adds a pop of color creating a striking contrast in any room. Its ergonomic design with a slightly reclined backrest and cushioned seat provides both comfort and style making it a standout addition to any space.",
+        "category": "Bookshelf",
+        "company": "Godrej",
+        "colors": "#ffce54"
+    },
+    {
+        "name": "Urban Coffee Table",
+        "price": 8999,
+        "description": "users while enhancing the contemporary vibe of your home.",
+        "category": "Filing cabinet",
+        "company": "Ikea",
+        "colors": "#ffce54"
+    },
+    {
+        "name": "Oakwood Dining Table",
+        "price": 19999,
+        "description": "Inspired by Scandinavian design this piece offers clean lines and a light finish for a minimalist look. Multiple open shelves provide plenty of space for storage and display making it both practical and stylish. Its compact design fits seamlessly into smaller spaces while the adjustable shelves offer versatility to suit various needs.",
+        "category": "Bathtub",
+        "company": "Bluwud",
+        "colors": "#a0d568"
+    },
+    {
+        "name": "Urban Coffee Table",
+        "price": 7999,
+        "description": "Crafted from reclaimed wood this furniture item showcases a warm natural finish that highlights the unique grain patterns. Its sturdy base offers both stability and style making it a focal point in any setting. Perfect for gatherings it blends seamlessly with both traditional and modern decor adding a touch of rustic charm.",
+        "category": "Filing cabinet",
+        "company": "Ikea",
+        "colors": "#4fc1e8"
+    },
+    {
+        "name": "Elegant Wardrobe",
+        "price": 19999,
+        "description": "his piece features a minimalist aesthetic with clean lines and neutral fabric adding a versatile touch to any room. The deep cushions are filled with high-density foam for optimal comfort supported by a durable frame with stylish legs. Ideal for small spaces it comfortably accommodates multiple users while enhancing the contemporary vibe of your home.",
+        "category": "Office chair",
+        "company": "WoodenStreet",
+        "colors": "#ac92eb"
+    },
+    {
+        "name": "Plush Accent Chair",
+        "price": 7999,
+        "description": "users while enhancing the contemporary vibe of your home.",
+        "category": "Filing cabinet",
+        "company": "WoodenStreet",
+        "colors": "#ac92eb"
+    },
+    {
+        "name": "Elegant Wardrobe",
+        "price": 6999,
+        "description": "Combining form and function this item features a metal frame with a rustic wood surface. The spacious top offers ample room for display or everyday use while the lower shelf provides additional storage. The distressed finish and exposed hardware give it an urban edgy look perfect for contemporary living spaces.",
+        "category": "Bookshelf",
+        "company": "Godrej",
+        "colors": "#ed5564"
+    },
+    {
+        "name": "Minimalist Bookshelf",
+        "price": 3500,
+        "description": "Combining form and function this item features a metal frame with a rustic wood surface. The spacious top offers ample room for display or everyday use while the lower shelf provides additional storage. The distressed finish and exposed hardware give it an urban edgy look perfect for contemporary living spaces.",
+        "category": "Chair",
+        "company": "Nilkamal",
+        "colors": "#4fc1e8"
+    },
+    {
+        "name": "Minimalist Bookshelf",
+        "price": 21000,
+        "description": "his piece features a minimalist aesthetic with clean lines and neutral fabric adding a versatile touch to any room. The deep cushions are filled with high-density foam for optimal comfort supported by a durable frame with stylish legs. Ideal for small spaces it comfortably accommodates multiple users while enhancing the contemporary vibe of your home.",
+        "category": "Bookshelf",
+        "company": "Ikea",
+        "colors": "#ac92eb"
+    },
+    {
+        "name": "Modern Side Table",
+        "price": 8999,
+        "description": "users while enhancing the contemporary vibe of your home.",
+        "category": "Sofa",
+        "company": "Bluwud",
+        "colors": "#a0d568"
+    },
+    {
+        "name": "Rustic Bed Frame",
+        "price": 7999,
+        "description": "Combining form and function this item features a metal frame with a rustic wood surface. The spacious top offers ample room for display or everyday use while the lower shelf provides additional storage. The distressed finish and exposed hardware give it an urban edgy look perfect for contemporary living spaces.",
+        "category": "Chair",
+        "company": "Godrej",
+        "colors": "#ffce54"
+    },
+    {
+        "name": "Elegant Wardrobe",
+        "price": 3500,
+        "description": "Inspired by Scandinavian design this piece offers clean lines and a light finish for a minimalist look. Multiple open shelves provide plenty of space for storage and display making it both practical and stylish. Its compact design fits seamlessly into smaller spaces while the adjustable shelves offer versatility to suit various needs.",
+        "category": "Chair",
+        "company": "WoodenStreet",
+        "colors": "#4fc1e8"
+    },
+    {
+        "name": "Elegant Wardrobe",
+        "price": 9999,
+        "description": "his piece features a minimalist aesthetic with clean lines and neutral fabric adding a versatile touch to any room. The deep cushions are filled with high-density foam for optimal comfort supported by a durable frame with stylish legs. Ideal for small spaces it comfortably accommodates multiple users while enhancing the contemporary vibe of your home.",
+        "category": "Chair",
+        "company": "Godrej",
+        "colors": "#ffce54"
+    },
+    {
+        "name": "Compact Desk",
+        "price": 6999,
+        "description": "Inspired by Scandinavian design this piece offers clean lines and a light finish for a minimalist look. Multiple open shelves provide plenty of space for storage and display making it both practical and stylish. Its compact design fits seamlessly into smaller spaces while the adjustable shelves offer versatility to suit various needs.",
+        "category": "Table lamp",
+        "company": "Nilkamal",
+        "colors": "#a0d568"
+    },
+    {
+        "name": "Compact Desk",
+        "price": 11000,
+        "description": "Featuring a mid-century modern design this piece includes a solid wood frame with tapered legs. The vibrant upholstery adds a pop of color creating a striking contrast in any room. Its ergonomic design with a slightly reclined backrest and cushioned seat provides both comfort and style making it a standout addition to any space.",
+        "category": "Filing cabinet",
+        "company": "Nilkamal",
+        "colors": "#4fc1e8"
+    },
+    {
+        "name": "Compact Desk",
+        "price": 19999,
+        "description": "Crafted from reclaimed wood this furniture item showcases a warm natural finish that highlights the unique grain patterns. Its sturdy base offers both stability and style making it a focal point in any setting. Perfect for gatherings it blends seamlessly with both traditional and modern decor adding a touch of rustic charm.",
+        "category": "Filing cabinet",
+        "company": "Ikea",
+        "colors": "#4fc1e8"
+    },
+    {
+        "name": "Oakwood Dining Table",
+        "price": 7900,
+        "description": "his piece features a minimalist aesthetic with clean lines and neutral fabric adding a versatile touch to any room. The deep cushions are filled with high-density foam for optimal comfort supported by a durable frame with stylish legs. Ideal for small spaces it comfortably accommodates multiple users while enhancing the contemporary vibe of your home.",
+        "category": "Office chair",
+        "company": "Ikea",
+        "colors": "#ffce54"
+    }
+]
