@@ -52,7 +52,7 @@ const getPaymentIntent = async (req, res) => {
         merchantTransactionId: transactionId,
         merchantUserId: "MUID123",
         amount: Math.round(totalCartValue) * 100,
-        redirectUrl: `http://localhost:5000/payment/status/${transactionId}?cartId=${cartId}&fullAddress=${fullAddress}`, // Change to backend URL
+        redirectUrl: `https://mystiq.onrender.com/payment/status/${transactionId}?cartId=${cartId}&fullAddress=${fullAddress}`, // Change to backend URL
         redirectMode: "POST",
         mobileNumber: "9999999999",
         paymentInstrument: {
@@ -141,20 +141,20 @@ const paymentController = async (req, res) => {
         },
     };
     const response = await axios.request(options);
-   // console.log("r===", response.data.code);
+    // console.log("r===", response.data.code);
     if (response.data.code === "PAYMENT_SUCCESS") {
         order.paymentStatus = "PAYMENT_SUCCESS";
         order.orderStatus = "Placed";
         await order.save();
         return res.redirect(
-            `http://localhost:5000/payment/status/success/${transactionId}`
+            `https://mystiq.onrender.com/payment/status/success/${transactionId}`
         );
     } else {
         order.paymentStatus = "PAYMENT_FAILED";
         order.orderStatus = "Not Placed";
         await order.save();
         return res.redirect(
-            `http://localhost:5000/payment/status/failed/${transactionId}`
+            `https://mystiq.onrender.com/payment/status/failed/${transactionId}`
         );
     }
 };
