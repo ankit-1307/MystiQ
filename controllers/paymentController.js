@@ -147,14 +147,14 @@ const paymentController = async (req, res) => {
         order.orderStatus = "Placed";
         await order.save();
         return res.redirect(
-            `http://localhost:5173/payment/status/success/${transactionId}`
+            `http://localhost:5000/payment/status/success/${transactionId}`
         );
     } else {
         order.paymentStatus = "PAYMENT_FAILED";
         order.orderStatus = "Not Placed";
         await order.save();
         return res.redirect(
-            `http://localhost:5173/payment/status/failed/${transactionId}`
+            `http://localhost:5000/payment/status/failed/${transactionId}`
         );
     }
 };

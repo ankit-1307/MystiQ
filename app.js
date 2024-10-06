@@ -1,6 +1,6 @@
 require("dotenv").config();
 require("express-async-errors");
-
+const path = require("path");
 const express = require("express");
 const app = express();
 
@@ -9,6 +9,7 @@ const morgan = require("morgan");
 const cookieParser = require("cookie-parser");
 //middlewares
 app.use(cookieParser(process.env.COOKIE_SECRET));
+app.use(express.static(path.join(__dirname, "dist")));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(
@@ -19,6 +20,7 @@ app.use(
 );
 app.set("trust proxy", 1);
 app.use(morgan("tiny"));
+
 //DB Connection
 const connectDB = require("./db/connectDB");
 //routes
@@ -39,6 +41,10 @@ app.use("/reviews", reviewRouter);
 app.use("/cart", cartRouter);
 app.use("/payment", paymentRouter);
 app.use("/orders", orderRouter);
+
+app.get("*", (req, res) => {
+    res.sendFile(path.join(__dirname, "./dist", "/index.html"));
+});
 
 app.use(notFoundMiddleware);
 app.use(errorHandlerMiddleware);
